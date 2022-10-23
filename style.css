@@ -1,0 +1,51 @@
+.divsuperior{
+    width: 100%;
+    height: 50px;
+    margin-top: 1%;
+}
+
+.title{
+    text-align: center;
+}
+
+.post{
+    width: 23%;
+    margin-top: 8%;
+    margin-left: 39%;
+}
+
+.divc{
+    background-color: rgb(191, 191, 191);
+    overflow-y: scroll;
+    
+}
+
+.divs{
+    float: left;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+
+.divs1{
+    margin-left: 1%;
+    float: left;
+    width: 40%;
+    margin-top: 10px;
+    margin-bottom: 6px;
+}
+
+.divs2{
+    position: relative;
+    float: right;
+    margin-right: 4%;
+    margin-top: 10px;
+}
+
+.divi1{
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+
